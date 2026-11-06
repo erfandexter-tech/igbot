@@ -1,4 +1,14 @@
 {
-  "offset": null,
-  "items": {}
+  "offset": 592948444,
+  "items": {
+    "559389509:ban:omde.milan.men": {
+      "chat_id": 559389509,
+      "username": "omde.milan.men",
+      "mode": "ban",
+      "added_by": "@eraan",
+      "added_at": 1793978917.2109547,
+      "followers": null,
+      "verified": false
+    }
+  }
 }
