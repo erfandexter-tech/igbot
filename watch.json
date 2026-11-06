@@ -1,5 +1,5 @@
 {
-  "offset": 592948444,
+  "offset": 592948445,
   "items": {
     "559389509:ban:omde.milan.men": {
       "chat_id": 559389509,
@@ -7,6 +7,15 @@
       "mode": "ban",
       "added_by": "@eraan",
       "added_at": 1793978917.2109547,
+      "followers": null,
+      "verified": false
+    },
+    "559389509:ban:akbariee837272": {
+      "chat_id": 559389509,
+      "username": "akbariee837272",
+      "mode": "ban",
+      "added_by": "@eraan",
+      "added_at": 1793978971.0509686,
       "followers": null,
       "verified": false
     }
