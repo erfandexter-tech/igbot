@@ -5,7 +5,7 @@ import requests
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-BOT_TOKEN = os.environ["8946001528:AAHSKDetQlviv0OvdqrZb-Xr7YR7V19ShVc"]
+BOT_TOKEN = "8946001528:AAHSKDetQlviv0OvdqrZb-Xr7YR7V19ShVc"
 DB_FILE = "watch.json"
 API = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
